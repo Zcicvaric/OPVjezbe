@@ -1,4 +1,5 @@
 #include <iostream>
+#include <algorithm>
 
 
 typedef struct _student {
@@ -42,7 +43,13 @@ int nadi_studenta(student studenti[], int id_studenta) { //vraca poziciju studen
     }
 }
 
+int usporedi_bodove(student s1, student s2) {
+    return(s1.final_score < s2.final_score);
+}
+
 void ispisi_studenta(student studenti) {
+    if(studenti.id == 0)
+        return;
     std::cout<<"Student ID: "<<studenti.id<<std::endl;
     std::cout<<"Ime: "<<studenti.ime<<std::endl;
     std::cout<<"Ocjena na 1. kvizu: "<<studenti.kviz1_score<<std::endl;
@@ -107,7 +114,7 @@ void evidencija(student studenti[]) {
             break;
             }
         }
-        if(odabir == 2) {//prepravit iz pocetka
+        if(odabir == 2) {
             while(1) {
                 if(arr_cp == 0) {
                     std::cout<<"Ne postoji ni jedan zapis! Povratak u glavni izbornik..."<<std::endl;
@@ -116,9 +123,7 @@ void evidencija(student studenti[]) {
             std::cout<<"Unesite ID studenta"<<std::endl;
             std::cin>>id_studenta;
             poz_studenta = nadi_studenta(studenti, id_studenta);
-            //delete studenti[poz_studenta]; //problem
-            iskoristeni_id[id_studenta] = 0;
-            arr_cp--;
+            studenti[poz_studenta].id = 0;
             break;
             }
         }
@@ -230,7 +235,9 @@ void evidencija(student studenti[]) {
                 break;
             }
         }
-
+        if(odabir == 9) {
+            std::sort(&studenti[0], &studenti[20], usporedi_bodove);
+        }
 
         if(odabir == 10)
             break;
@@ -259,11 +266,11 @@ int main()
 
     int niz[] = {1130, 1135, 2587, 1134};
 
-    int& broj = vrati_element_niza(niz, 4);
-/*
+    vrati_element_niza(niz, 4) += 1;
+
     std::cout<<broj<<std::endl;
     broj++;
     std::cout<<broj<<std::endl;
-*/
+
 }
 
