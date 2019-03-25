@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1552848118 source:/home/zvone/Desktop/Faks/3. godina/Objektno programiranje/Lab/OP/OPVjezbe/Vjezba 3/Zadatak 3/Vjezba3_Zad3/main.cpp
+	<iostream>
+	<vector>
+	<string>
+

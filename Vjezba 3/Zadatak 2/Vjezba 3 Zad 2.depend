@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1552931277 source:d:\documents\zvonimircicvaricop2019\vjezba 3\vjezba 3\zadatak 2\vjezba 3 zad 2\funkcije.h
+	<iostream>
+	<vector>
+	<cstdlib>
+	<ctime>
+
+1552934963 source:d:\documents\zvonimircicvaricop2019\vjezba 3\vjezba 3\zadatak 2\vjezba 3 zad 2\main.cpp
+	<iostream>
+	<vector>
+	"vjezba3zad2.h"
+
+1552934985 d:\documents\zvonimircicvaricop2019\vjezba 3\vjezba 3\zadatak 2\vjezba 3 zad 2\include\vjezba3zad2.h
+	<vector>
+	<algorithm>
+
+1552934038 source:d:\documents\zvonimircicvaricop2019\vjezba 3\vjezba 3\zadatak 2\vjezba 3 zad 2\src\vjezba3zad2.cpp
+	<iostream>
+	<vector>
+	<cstdlib>
+	<ctime>
+	<algorithm>
+	"vjezba3zad2.h"
+

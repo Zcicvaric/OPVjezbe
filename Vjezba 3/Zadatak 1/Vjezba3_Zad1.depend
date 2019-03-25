@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1552930803 source:d:\documents\zvonimircicvaricop2019\vjezba 3\vjezba 3\zadatak 1\vjezba3_zad1\main.cpp
+	<iostream>
+	<vector>
+	<cstdlib>
+	<ctime>
+
