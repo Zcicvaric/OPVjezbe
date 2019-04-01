@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1553774463 source:c:\users\zvonimir cicvariæ\downloads\lab\lab\vjezba4zad2\main.cpp
+	<iostream>
+	"oruzje.h"
+
+1553774335 
+
+1553773113 source:c:\users\zvonimir cicvariæ\downloads\lab\lab\vjezba4zad2\tocka.cpp
+	"tocka.h"
+	<iostream>
+	<algorithm>
+	<cstdlib>
+	<math.h>
+
+1553776021 c:\users\zvonimir cicvariæ\downloads\lab\lab\vjezba4zad2\tocka.h
+
+1553774335 c:\users\zvonimir cicvariæ\downloads\lab\lab\vjezba4zad2\oruzje.h
+	"tocka.h"
+
+1553778064 source:/home/zvone/Desktop/Vjezba 4 WIP/Vjezba4Zad2/main.cpp
+	<iostream>
+	"oruzje.h"
+
+1553777936 /home/zvone/Desktop/Vjezba 4 WIP/Vjezba4Zad2/oruzje.h
+	"tocka.h"
+
+1553779622 /home/zvone/Desktop/Vjezba 4 WIP/Vjezba4Zad2/tocka.h
+
+1553779452 source:/home/zvone/Desktop/Vjezba 4 WIP/Vjezba4Zad2/tocka.cpp
+	"tocka.h"
+	<iostream>
+	<algorithm>
+	<cstdlib>
+	<math.h>
+	<time.h>
+
+1554060344 source:d:\documents\zvonimircicvaricop2019\vjezba 4\vjezba4zad2\tocka.cpp
+	"tocka.h"
+	<iostream>
+	<algorithm>
+	<cstdlib>
+	<math.h>
+	<time.h>
+
+1554060340 d:\documents\zvonimircicvaricop2019\vjezba 4\vjezba4zad2\tocka.h
+
