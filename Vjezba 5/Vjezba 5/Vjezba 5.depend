@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1554145880 source:d:\documents\zvonimircicvaricop2019\vjezba 5\vjezba 5\main.cpp
+	<iostream>
+	"zooanimal.h"
+	<vector>
+
+1554147456 d:\documents\zvonimircicvaricop2019\vjezba 5\vjezba 5\include\zooanimal.h
+	<string>
+
+1554147589 source:d:\documents\zvonimircicvaricop2019\vjezba 5\vjezba 5\src\zooanimal.cpp
+	"zooanimal.h"
+	<stdio.h>
+	<string.h>
+
+1554456390 source:c:\users\zvonimir cicvariæ\downloads\vjezba 5\vjezba 5\main.cpp
+	<iostream>
+	"zooanimal.h"
+	<vector>
+
+1554456491 c:\users\zvonimir cicvariæ\downloads\vjezba 5\vjezba 5\include\zooanimal.h
+	<string>
+	<stdio.h>
+	<iostream>
+	<ctime>
+
+1554456434 source:c:\users\zvonimir cicvariæ\downloads\vjezba 5\vjezba 5\src\zooanimal.cpp
+	"zooanimal.h"
+
