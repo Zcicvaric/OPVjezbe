@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1556364753 source:/home/zvone/Desktop/Vjezba 6/main.cpp
+	<iostream>
+	"Array.h"
+
+1556364842 /home/zvone/Desktop/Vjezba 6/include/Array.h
+	<iostream>
+
+1556364607 source:/home/zvone/Desktop/Vjezba 6/src/Array.cpp
+	"Array.h"
+	<iostream>
+
+1556361492 source:d:\documents\zvonimircicvaricop2019\vjezba 6\src\array.cpp
+	"Array.h"
+	<iostream>
+
+1556560707 d:\documents\zvonimircicvaricop2019\vjezba 6\include\array.h
+	<iostream>
+
+1556560615 source:d:\documents\zvonimircicvaricop2019\vjezba 6\main.cpp
+	<iostream>
+	"Array.h"
+
