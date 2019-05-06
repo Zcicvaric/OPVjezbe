@@ -1,0 +1,162 @@
+# depslib dependency file v1.0
+1514144174 source:d:\documents\zvonimircicvaricop2019\vjezba 7\vjezba 7\main.cpp
+	<iostream>
+
+1556564889 
+
+1556564295 source:d:\documents\zvonimircicvaricop2019\vjezba 7\vjezba 7\src\vehicle.cpp
+	"vehicle.h"
+	<string>
+
+1556564889 d:\documents\zvonimircicvaricop2019\vjezba 7\vjezba 7\include\vehicle.h
+	<string>
+
+1556721795 source:/home/zvone/Desktop/Vjezba 7/Vjezba 7/main.cpp
+	<iostream>
+	<vehicle.h>
+
+1556722965 source:/home/zvone/Desktop/Vjezba 7/Vjezba 7/src/vehicle.cpp
+	"vehicle.h"
+	<string>
+	<iostream>
+
+1556723106 /home/zvone/Desktop/Vjezba 7/Vjezba 7/include/vehicle.h
+	<string>
+
+1556898704 source:c:\users\zvonimir cicvariæ\desktop\vjezba 7\vjezba 7\src\vehicle.cpp
+	"vehicle.h"
+
+1556900437 c:\users\zvonimir cicvariæ\desktop\vjezba 7\vjezba 7\include\vehicle.h
+	<string>
+
+1556719528 source:c:\users\zvonimir cicvariæ\desktop\vjezba 7\vjezba 7\main.cpp
+	<iostream>
+	<vehicle.h>
+
+1556900068 source:c:\users\zvonimir cicvariæ\desktop\vjezba 7\vjezba 7\src\aircraft.cpp
+	"aircraft.h"
+
+1556900102 c:\users\zvonimir cicvariæ\desktop\vjezba 7\vjezba 7\include\aircraft.h
+	"vehicle.h"
+
+1556900169 source:c:\users\zvonimir cicvariæ\desktop\vjezba 7\vjezba 7\src\car.cpp
+	"car.h"
+
+1556900161 c:\users\zvonimir cicvariæ\desktop\vjezba 7\vjezba 7\include\car.h
+	"land_vehicle.h"
+
+1556900304 c:\users\zvonimir cicvariæ\desktop\vjezba 7\vjezba 7\include\land_vehicle.h
+	"vehicle.h"
+
+1556900501 source:c:\users\zvonimir cicvariæ\desktop\vjezba 7\vjezba 7\src\catamaran.cpp
+	"catamaran.h"
+
+1556900195 c:\users\zvonimir cicvariæ\desktop\vjezba 7\vjezba 7\include\catamaran.h
+	"watercraft.h"
+
+1556900414 c:\users\zvonimir cicvariæ\desktop\vjezba 7\vjezba 7\include\watercraft.h
+	"vehicle.h"
+
+1556900509 source:c:\users\zvonimir cicvariæ\desktop\vjezba 7\vjezba 7\src\bike.cpp
+	"bike.h"
+
+1556900463 c:\users\zvonimir cicvariæ\desktop\vjezba 7\vjezba 7\include\bike.h
+	"land_vehicle.h"
+
+1556900516 source:c:\users\zvonimir cicvariæ\desktop\vjezba 7\vjezba 7\src\ferry.cpp
+	"ferry.h"
+
+1556900272 c:\users\zvonimir cicvariæ\desktop\vjezba 7\vjezba 7\include\ferry.h
+	"watercraft.h"
+
+1556900312 source:c:\users\zvonimir cicvariæ\desktop\vjezba 7\vjezba 7\src\land_vehicle.cpp
+	"land_vehicle.h"
+
+1556900366 source:c:\users\zvonimir cicvariæ\desktop\vjezba 7\vjezba 7\src\seaplane.cpp
+	"seaplane.h"
+
+1556900357 c:\users\zvonimir cicvariæ\desktop\vjezba 7\vjezba 7\include\seaplane.h
+	"watercraft.h"
+	"aircraft.h"
+
+1556900423 source:c:\users\zvonimir cicvariæ\desktop\vjezba 7\vjezba 7\src\watercraft.cpp
+	"watercraft.h"
+
+1556900569 source:c:\users\zvonimir cicvariæ\desktop\vjezba 7\vjezba 7\src\counter.cpp
+	"counter.h"
+	<iostream>
+
+1556900523 c:\users\zvonimir cicvariæ\desktop\vjezba 7\vjezba 7\include\counter.h
+	"vehicle.h"
+
+1556900668 source:d:\documents\zvonimircicvaricop2019\vjezba 7_final\main.cpp
+	<iostream>
+	"bike.h"
+	"car.h"
+	"catamaran.h"
+	"ferry.h"
+	"seaplane.h"
+	"counter.h"
+
+1556900464 d:\documents\zvonimircicvaricop2019\vjezba 7_final\include\bike.h
+	"land_vehicle.h"
+
+1556900306 d:\documents\zvonimircicvaricop2019\vjezba 7_final\include\land_vehicle.h
+	"vehicle.h"
+
+1556900438 d:\documents\zvonimircicvaricop2019\vjezba 7_final\include\vehicle.h
+	<string>
+
+1556900162 d:\documents\zvonimircicvaricop2019\vjezba 7_final\include\car.h
+	"land_vehicle.h"
+
+1556900196 d:\documents\zvonimircicvaricop2019\vjezba 7_final\include\catamaran.h
+	"watercraft.h"
+
+1556900416 d:\documents\zvonimircicvaricop2019\vjezba 7_final\include\watercraft.h
+	"vehicle.h"
+
+1556900274 d:\documents\zvonimircicvaricop2019\vjezba 7_final\include\ferry.h
+	"watercraft.h"
+
+1556900358 d:\documents\zvonimircicvaricop2019\vjezba 7_final\include\seaplane.h
+	"watercraft.h"
+	"aircraft.h"
+
+1556900104 d:\documents\zvonimircicvaricop2019\vjezba 7_final\include\aircraft.h
+	"vehicle.h"
+
+1556900524 d:\documents\zvonimircicvaricop2019\vjezba 7_final\include\counter.h
+	"vehicle.h"
+
+1556900070 source:d:\documents\zvonimircicvaricop2019\vjezba 7_final\src\aircraft.cpp
+	"aircraft.h"
+
+1556900510 source:d:\documents\zvonimircicvaricop2019\vjezba 7_final\src\bike.cpp
+	"bike.h"
+
+1556900170 source:d:\documents\zvonimircicvaricop2019\vjezba 7_final\src\car.cpp
+	"car.h"
+
+1556900502 source:d:\documents\zvonimircicvaricop2019\vjezba 7_final\src\catamaran.cpp
+	"catamaran.h"
+
+1556900570 source:d:\documents\zvonimircicvaricop2019\vjezba 7_final\src\counter.cpp
+	"counter.h"
+	<iostream>
+
+1556900518 source:d:\documents\zvonimircicvaricop2019\vjezba 7_final\src\ferry.cpp
+	"ferry.h"
+
+1556900314 source:d:\documents\zvonimircicvaricop2019\vjezba 7_final\src\land_vehicle.cpp
+	"land_vehicle.h"
+
+1556900368 source:d:\documents\zvonimircicvaricop2019\vjezba 7_final\src\seaplane.cpp
+	"seaplane.h"
+
+1556898706 source:d:\documents\zvonimircicvaricop2019\vjezba 7_final\src\vehicle.cpp
+	"vehicle.h"
+
+1556900424 source:d:\documents\zvonimircicvaricop2019\vjezba 7_final\src\watercraft.cpp
+	"watercraft.h"
+
