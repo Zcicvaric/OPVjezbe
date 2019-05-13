@@ -1,0 +1,426 @@
+# depslib dependency file v1.0
+1556874582 source:c:\users\zvonimir cicvariæ\downloads\lab\lab\vjezba\vjezba 8\src\zooanimal.cpp
+	"ZooAnimal.h"
+
+1557068656 .h"
+
+1556886803 c:\users\zvonimir cicvariæ\downloads\lab\lab\vjezba\vjezba 8\include\zooanimal.h
+	<string>
+	<stdio.h>
+	<iostream>
+	<ctime>
+
+1557170400 
+
+1556894693 source:c:\users\zvonimir cicvariæ\downloads\lab\lab\vjezba\vjezba 8\main.cpp
+	<iostream>
+	<vector>
+	<ZooAnimal.h>
+	<Crocodile.h>
+	<Elephant.h>
+	<GriffonVulture.h>
+	<Monkey.h>
+	<Tiger.h>
+	<Turtle.h>
+
+1556885481 source:c:\users\zvonimir cicvariæ\downloads\lab\lab\vjezba\vjezba 8\src\crocodile.cpp
+	"Crocodile.h"
+
+1556886944 c:\users\zvonimir cicvariæ\downloads\lab\lab\vjezba\vjezba 8\include\crocodile.h
+	<Mammal.h>
+
+1556884743 c:\users\zvonimir cicvariæ\downloads\lab\lab\vjezba\vjezba 8\include\mammal.h
+	<ZooAnimal.h>
+
+1557170312 .h>
+
+1556877377 source:c:\users\zvonimir cicvariæ\downloads\lab\lab\vjezba\vjezba 8\src\elephant.cpp
+	"Elephant.h"
+
+1557170111 h"
+
+1556895325 c:\users\zvonimir cicvariæ\downloads\lab\lab\vjezba\vjezba 8\include\elephant.h
+	"Mammal.h"
+
+1556886596 source:c:\users\zvonimir cicvariæ\downloads\lab\lab\vjezba\vjezba 8\src\bird.cpp
+	"Bird.h"
+
+1556884611 c:\users\zvonimir cicvariæ\downloads\lab\lab\vjezba\vjezba 8\include\bird.h
+	<ZooAnimal.h>
+
+1556877372 source:c:\users\zvonimir cicvariæ\downloads\lab\lab\vjezba\vjezba 8\src\griffonvulture.cpp
+	"GriffonVulture.h"
+
+1557170099 lture.h"
+
+1556886544 c:\users\zvonimir cicvariæ\downloads\lab\lab\vjezba\vjezba 8\include\griffonvulture.h
+	"Bird.h"
+
+1556887566 source:c:\users\zvonimir cicvariæ\downloads\lab\lab\vjezba\vjezba 8\src\mammal.cpp
+	"Mammal.h"
+
+1556877427 source:c:\users\zvonimir cicvariæ\downloads\lab\lab\vjezba\vjezba 8\src\monkey.cpp
+	"Monkey.h"
+
+1556895338 c:\users\zvonimir cicvariæ\downloads\lab\lab\vjezba\vjezba 8\include\monkey.h
+	"Mammal.h"
+
+1556877435 source:c:\users\zvonimir cicvariæ\downloads\lab\lab\vjezba\vjezba 8\src\owl.cpp
+	"Owl.h"
+
+1556886764 c:\users\zvonimir cicvariæ\downloads\lab\lab\vjezba\vjezba 8\include\owl.h
+	<Bird.h>
+
+1556887587 source:c:\users\zvonimir cicvariæ\downloads\lab\lab\vjezba\vjezba 8\src\reptile.cpp
+	"Reptile.h"
+
+1557170395 "
+
+1556887173 c:\users\zvonimir cicvariæ\downloads\lab\lab\vjezba\vjezba 8\include\reptile.h
+	<ZooAnimal.h>
+
+1556877431 source:c:\users\zvonimir cicvariæ\downloads\lab\lab\vjezba\vjezba 8\src\tiger.cpp
+	"Tiger.h"
+
+1556895370 c:\users\zvonimir cicvariæ\downloads\lab\lab\vjezba\vjezba 8\include\tiger.h
+	"Mammal.h"
+
+1556877439 source:c:\users\zvonimir cicvariæ\downloads\lab\lab\vjezba\vjezba 8\src\turtle.cpp
+	"Turtle.h"
+
+1556895379 c:\users\zvonimir cicvariæ\downloads\lab\lab\vjezba\vjezba 8\include\turtle.h
+	"Reptile.h"
+
+1557499752 source:c:\users\zvonimir cicvariæ\desktop\vjezba 8\main.cpp
+	<iostream>
+	<vector>
+	<ZooAnimal.h>
+	<Crocodile.h>
+	<Elephant.h>
+	<GriffonVulture.h>
+	<Monkey.h>
+	<Owl.h>
+	<Tiger.h>
+	<Turtle.h>
+
+1557499810 c:\users\zvonimir cicvariæ\desktop\vjezba 8\include\zooanimal.h
+	<string>
+	<stdio.h>
+	<iostream>
+	<ctime>
+
+1557170210 c:\users\zvonimir cicvariæ\desktop\vjezba 8\include\crocodile.h
+	<Reptile.h>
+
+1557170209 >
+
+1557499989 c:\users\zvonimir cicvariæ\desktop\vjezba 8\include\mammal.h
+	<ZooAnimal.h>
+	<iostream>
+
+1557170000 c:\users\zvonimir cicvariæ\desktop\vjezba 8\include\elephant.h
+	"Mammal.h"
+
+1557170192 c:\users\zvonimir cicvariæ\desktop\vjezba 8\include\griffonvulture.h
+	"Bird.h"
+
+1557499803 c:\users\zvonimir cicvariæ\desktop\vjezba 8\include\bird.h
+	<ZooAnimal.h>
+	<iostream>
+
+1557170290 c:\users\zvonimir cicvariæ\desktop\vjezba 8\include\monkey.h
+	"Mammal.h"
+
+1557170320 c:\users\zvonimir cicvariæ\desktop\vjezba 8\include\owl.h
+	<Bird.h>
+
+1557170414 c:\users\zvonimir cicvariæ\desktop\vjezba 8\include\tiger.h
+	"Mammal.h"
+
+1557170396 c:\users\zvonimir cicvariæ\desktop\vjezba 8\include\turtle.h
+	"Reptile.h"
+
+1557499881 c:\users\zvonimir cicvariæ\desktop\vjezba 8\include\reptile.h
+	<ZooAnimal.h>
+
+1557498325 source:c:\users\zvonimir cicvariæ\desktop\vjezba 8\src\bird.cpp
+	"Bird.h"
+
+1557497085 source:c:\users\zvonimir cicvariæ\desktop\vjezba 8\src\crocodile.cpp
+	"Crocodile.h"
+
+1557171222 source:c:\users\zvonimir cicvariæ\desktop\vjezba 8\src\elephant.cpp
+	"Elephant.h"
+
+1557171228 source:c:\users\zvonimir cicvariæ\desktop\vjezba 8\src\griffonvulture.cpp
+	"GriffonVulture.h"
+
+1557169146 source:c:\users\zvonimir cicvariæ\desktop\vjezba 8\src\mammal.cpp
+	"Mammal.h"
+
+1557171236 source:c:\users\zvonimir cicvariæ\desktop\vjezba 8\src\monkey.cpp
+	"Monkey.h"
+
+1557171242 source:c:\users\zvonimir cicvariæ\desktop\vjezba 8\src\owl.cpp
+	"Owl.h"
+
+1557168868 source:c:\users\zvonimir cicvariæ\desktop\vjezba 8\src\reptile.cpp
+	"Reptile.h"
+
+1557171250 source:c:\users\zvonimir cicvariæ\desktop\vjezba 8\src\tiger.cpp
+	"Tiger.h"
+
+1557171262 source:c:\users\zvonimir cicvariæ\desktop\vjezba 8\src\turtle.cpp
+	"Turtle.h"
+
+1557068656 source:c:\users\zvonimir cicvariæ\desktop\vjezba 8\src\zooanimal.cpp
+	"ZooAnimal.h"
+
+1557170172 source:d:\documents\zvonimircicvaricop2019\vjezba 8\src\crocodile.cpp
+	"Crocodile.h"
+
+1557170209 d:\documents\zvonimircicvaricop2019\vjezba 8\include\crocodile.h
+	<Reptile.h>
+
+1557169832 d:\documents\zvonimircicvaricop2019\vjezba 8\include\mammal.h
+	<ZooAnimal.h>
+	<iostream>
+
+1557164874 d:\documents\zvonimircicvaricop2019\vjezba 8\include\zooanimal.h
+	<string>
+	<stdio.h>
+	<iostream>
+	<ctime>
+
+1557170111 source:d:\documents\zvonimircicvaricop2019\vjezba 8\src\elephant.cpp
+	"Elephant.h"
+
+1557169999 d:\documents\zvonimircicvaricop2019\vjezba 8\include\elephant.h
+	"Mammal.h"
+
+1557170099 source:d:\documents\zvonimircicvaricop2019\vjezba 8\src\griffonvulture.cpp
+	"GriffonVulture.h"
+
+1557170190 d:\documents\zvonimircicvaricop2019\vjezba 8\include\griffonvulture.h
+	"Bird.h"
+
+1557169828 d:\documents\zvonimircicvaricop2019\vjezba 8\include\bird.h
+	<ZooAnimal.h>
+
+1557170327 source:d:\documents\zvonimircicvaricop2019\vjezba 8\src\monkey.cpp
+	"Monkey.h"
+
+1557170289 d:\documents\zvonimircicvaricop2019\vjezba 8\include\monkey.h
+	"Mammal.h"
+
+1557170325 source:d:\documents\zvonimircicvaricop2019\vjezba 8\src\owl.cpp
+	"Owl.h"
+
+1557170319 d:\documents\zvonimircicvaricop2019\vjezba 8\include\owl.h
+	<Bird.h>
+
+1557169227 source:d:\documents\zvonimircicvaricop2019\vjezba 8\src\bird.cpp
+	"Bird.h"
+
+1557169144 source:d:\documents\zvonimircicvaricop2019\vjezba 8\src\mammal.cpp
+	"Mammal.h"
+
+1557168867 source:d:\documents\zvonimircicvaricop2019\vjezba 8\src\reptile.cpp
+	"Reptile.h"
+
+1557170312 d:\documents\zvonimircicvaricop2019\vjezba 8\include\reptile.h
+	<ZooAnimal.h>
+
+1557170400 source:d:\documents\zvonimircicvaricop2019\vjezba 8\src\tiger.cpp
+	"Tiger.h"
+
+1557170412 d:\documents\zvonimircicvaricop2019\vjezba 8\include\tiger.h
+	"Mammal.h"
+
+1557170341 source:d:\documents\zvonimircicvaricop2019\vjezba 8\src\turtle.cpp
+	"Turtle.h"
+
+1557170395 d:\documents\zvonimircicvaricop2019\vjezba 8\include\turtle.h
+	"Reptile.h"
+
+1557068656 source:d:\documents\zvonimircicvaricop2019\vjezba 8\src\zooanimal.cpp
+	"ZooAnimal.h"
+
+1557170991 source:d:\documents\zvonimircicvaricop2019\vjezba 8\main.cpp
+	<iostream>
+	<vector>
+	<ZooAnimal.h>
+	<Crocodile.h>
+	<Elephant.h>
+	<GriffonVulture.h>
+	<Monkey.h>
+	<Owl.h>
+	<Tiger.h>
+	<Turtle.h>
+
+1557588696 source:/home/zvone/Desktop/Vjezba 8 wip/main.cpp
+	<iostream>
+	<vector>
+	<ZooAnimal.h>
+	<Crocodile.h>
+	<Elephant.h>
+	<GriffonVulture.h>
+	<Monkey.h>
+	<Owl.h>
+	<Tiger.h>
+	<Turtle.h>
+
+1557588747 /home/zvone/Desktop/Vjezba 8 wip/include/ZooAnimal.h
+	<string>
+	<stdio.h>
+	<iostream>
+	<ctime>
+
+1557589197 /home/zvone/Desktop/Vjezba 8 wip/include/Crocodile.h
+	<Reptile.h>
+
+1557588855 /home/zvone/Desktop/Vjezba 8 wip/include/Reptile.h
+	<ZooAnimal.h>
+
+1557589181 /home/zvone/Desktop/Vjezba 8 wip/include/Elephant.h
+	"Mammal.h"
+
+1557588817 /home/zvone/Desktop/Vjezba 8 wip/include/Mammal.h
+	<ZooAnimal.h>
+	<iostream>
+
+1557589240 /home/zvone/Desktop/Vjezba 8 wip/include/GriffonVulture.h
+	"Bird.h"
+
+1557588765 /home/zvone/Desktop/Vjezba 8 wip/include/Bird.h
+	<ZooAnimal.h>
+	<iostream>
+
+1557588831 /home/zvone/Desktop/Vjezba 8 wip/include/Monkey.h
+	"Mammal.h"
+
+1557588843 /home/zvone/Desktop/Vjezba 8 wip/include/Owl.h
+	<Bird.h>
+
+1557588865 /home/zvone/Desktop/Vjezba 8 wip/include/Tiger.h
+	"Mammal.h"
+
+1557588877 /home/zvone/Desktop/Vjezba 8 wip/include/Turtle.h
+	"Reptile.h"
+
+1557588894 source:/home/zvone/Desktop/Vjezba 8 wip/src/Bird.cpp
+	"Bird.h"
+
+1557589163 source:/home/zvone/Desktop/Vjezba 8 wip/src/Crocodile.cpp
+	"Crocodile.h"
+
+1557589100 source:/home/zvone/Desktop/Vjezba 8 wip/src/Elephant.cpp
+	"Elephant.h"
+
+1557589217 source:/home/zvone/Desktop/Vjezba 8 wip/src/GriffonVulture.cpp
+	"GriffonVulture.h"
+
+1557589122 source:/home/zvone/Desktop/Vjezba 8 wip/src/Mammal.cpp
+	"Mammal.h"
+
+1557589107 source:/home/zvone/Desktop/Vjezba 8 wip/src/Monkey.cpp
+	"Monkey.h"
+
+1557589111 source:/home/zvone/Desktop/Vjezba 8 wip/src/Owl.cpp
+	"Owl.h"
+
+1557589133 source:/home/zvone/Desktop/Vjezba 8 wip/src/Reptile.cpp
+	"Reptile.h"
+
+1557589126 source:/home/zvone/Desktop/Vjezba 8 wip/src/Tiger.cpp
+	"Tiger.h"
+
+1557589136 source:/home/zvone/Desktop/Vjezba 8 wip/src/Turtle.cpp
+	"Turtle.h"
+
+1557588725 source:/home/zvone/Desktop/Vjezba 8 wip/src/ZooAnimal.cpp
+	"ZooAnimal.h"
+
+1557590672 source:d:\documents\zvonimircicvaricop2019\vjezba 8 wip\src\bird.cpp
+	"Bird.h"
+
+1557769428 d:\documents\zvonimircicvaricop2019\vjezba 8 wip\include\bird.h
+	<ZooAnimal.h>
+	<iostream>
+
+1557590700 d:\documents\zvonimircicvaricop2019\vjezba 8 wip\include\zooanimal.h
+	<string>
+	<stdio.h>
+	<iostream>
+	<ctime>
+
+1557590692 source:d:\documents\zvonimircicvaricop2019\vjezba 8 wip\src\crocodile.cpp
+	"Crocodile.h"
+
+1557590698 d:\documents\zvonimircicvaricop2019\vjezba 8 wip\include\crocodile.h
+	<Reptile.h>
+
+1557769575 d:\documents\zvonimircicvaricop2019\vjezba 8 wip\include\reptile.h
+	<ZooAnimal.h>
+
+1557590676 source:d:\documents\zvonimircicvaricop2019\vjezba 8 wip\src\elephant.cpp
+	"Elephant.h"
+
+1557590704 d:\documents\zvonimircicvaricop2019\vjezba 8 wip\include\elephant.h
+	"Mammal.h"
+
+1557769580 d:\documents\zvonimircicvaricop2019\vjezba 8 wip\include\mammal.h
+	<ZooAnimal.h>
+	<iostream>
+
+1557590694 source:d:\documents\zvonimircicvaricop2019\vjezba 8 wip\src\griffonvulture.cpp
+	"GriffonVulture.h"
+
+1557590700 d:\documents\zvonimircicvaricop2019\vjezba 8 wip\include\griffonvulture.h
+	"Bird.h"
+
+1557590668 source:d:\documents\zvonimircicvaricop2019\vjezba 8 wip\src\mammal.cpp
+	"Mammal.h"
+
+1557590692 source:d:\documents\zvonimircicvaricop2019\vjezba 8 wip\src\monkey.cpp
+	"Monkey.h"
+
+1557590696 d:\documents\zvonimircicvaricop2019\vjezba 8 wip\include\monkey.h
+	"Mammal.h"
+
+1557590694 source:d:\documents\zvonimircicvaricop2019\vjezba 8 wip\src\owl.cpp
+	"Owl.h"
+
+1557590706 d:\documents\zvonimircicvaricop2019\vjezba 8 wip\include\owl.h
+	<Bird.h>
+
+1557590684 source:d:\documents\zvonimircicvaricop2019\vjezba 8 wip\src\reptile.cpp
+	"Reptile.h"
+
+1557590688 source:d:\documents\zvonimircicvaricop2019\vjezba 8 wip\src\tiger.cpp
+	"Tiger.h"
+
+1557590702 d:\documents\zvonimircicvaricop2019\vjezba 8 wip\include\tiger.h
+	"Mammal.h"
+
+1557590690 source:d:\documents\zvonimircicvaricop2019\vjezba 8 wip\src\turtle.cpp
+	"Turtle.h"
+
+1557590708 d:\documents\zvonimircicvaricop2019\vjezba 8 wip\include\turtle.h
+	"Reptile.h"
+
+1557590680 source:d:\documents\zvonimircicvaricop2019\vjezba 8 wip\src\zooanimal.cpp
+	"ZooAnimal.h"
+
+1557768786 source:d:\documents\zvonimircicvaricop2019\vjezba 8 wip\main.cpp
+	<iostream>
+	<vector>
+	<ZooAnimal.h>
+	<Crocodile.h>
+	<Elephant.h>
+	<GriffonVulture.h>
+	<Monkey.h>
+	<Owl.h>
+	<Tiger.h>
+	<Turtle.h>
+
