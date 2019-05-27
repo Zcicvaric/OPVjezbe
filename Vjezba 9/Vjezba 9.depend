@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1558977999 source:d:\documents\zvonimircicvaricop2019\vjezba 9\main.cpp
+	"pair.h"
+	"PairString.h"
+	<vector>
+	<algorithm>
+
+1557770711 
+
+1557765346 source:d:\documents\zvonimircicvaricop2019\vjezba 9\src\pair.cpp
+	"pair.h"
+
+1558979961 d:\documents\zvonimircicvaricop2019\vjezba 9\include\pair.h
+	<iostream>
+
+1558190966 source:/home/zvone/Desktop/Vjezba 9/main.cpp
+	"pair.h"
+	"PairString.h"
+	<vector>
+	<algorithm>
+
+1558190664 /home/zvone/Desktop/Vjezba 9/include/pair.h
+	<iostream>
+
+1558185455 source:/home/zvone/Desktop/Vjezba 9/src/pair.cpp
+	"pair.h"
+
+1558190864 /home/zvone/Desktop/Vjezba 9/include/PairString.h
+	<pair.h>
+	<string>
+
+1558190869 source:/home/zvone/Desktop/Vjezba 9/src/PairString.cpp
+	"PairString.h"
+
+1558187488 source:d:\documents\zvonimircicvaricop2019\vjezba 9\src\pairstring.cpp
+	"PairString.h"
+
+1558980159 d:\documents\zvonimircicvaricop2019\vjezba 9\include\pairstring.h
+	<pair.h>
+	<string>
+
